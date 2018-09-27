@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuhangyuan_02",
+    "texture": "8467e66f-ff45-4c03-86c3-bab93f77bc0a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      118
+    ]
+  }
+}

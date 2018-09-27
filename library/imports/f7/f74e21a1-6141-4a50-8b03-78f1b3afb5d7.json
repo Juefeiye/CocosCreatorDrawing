@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "田字格",
+    "texture": "dba7e27e-177a-4549-9cc9-6255bd0dcee0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1720,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1720,
+      1080
+    ]
+  }
+}

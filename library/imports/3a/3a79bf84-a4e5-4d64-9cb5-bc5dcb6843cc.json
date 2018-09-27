@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaochouyu_tex",
+    "texture": "e796b67d-0beb-4a40-8f8d-0be0432d756b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      124,
+      149
+    ],
+    "offset": [
+      -1,
+      52.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ]
+  }
+}

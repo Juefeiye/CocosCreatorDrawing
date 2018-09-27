@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bg_images_fold",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Widget": {
+        "right": [
+          {
+            "frame": 0,
+            "value": 1539
+          },
+          {
+            "frame": 0.25,
+            "value": 83
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.25,
+      "func": "onFinishBgAnim",
+      "params": [
+        true
+      ]
+    }
+  ]
+}

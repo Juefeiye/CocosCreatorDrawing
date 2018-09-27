@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "贴纸图标",
+    "texture": "f4c3a962-6dd8-43c1-a4f4-2c961849afd8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      174
+    ]
+  }
+}

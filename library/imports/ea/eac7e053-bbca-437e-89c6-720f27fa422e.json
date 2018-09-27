@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "米字格",
+    "texture": "75d22c88-87dd-4fd6-9de0-4dc245690282",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1720,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1720,
+      1080
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shayu_02",
+    "texture": "58937339-2394-4139-a88a-b69ce20e9319",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      96
+    ]
+  }
+}

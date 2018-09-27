@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "65dca4ca-b011-4fbe-9183-c6d1584be1e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "添加桌面弹框按钮1": {
+      "ver": "1.0.3",
+      "uuid": "b3b4f649-a565-4f06-a13c-32342f16a603",
+      "rawTextureUuid": "65dca4ca-b011-4fbe-9183-c6d1584be1e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 248,
+      "height": 68,
+      "rawWidth": 248,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

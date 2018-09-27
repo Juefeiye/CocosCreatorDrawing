@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "文本遮罩",
+    "texture": "f038b9d7-5768-4c22-87e1-5447b100a44e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      40
+    ],
+    "capInsets": [
+      40,
+      0,
+      40,
+      0
+    ]
+  }
+}

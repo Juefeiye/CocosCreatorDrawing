@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a95acf97-af29-4bd1-9f79-402441bd6e18",
+  "atlasJson": "{\"SubTexture\":[{\"x\":1,\"y\":99,\"width\":39,\"name\":\"xiaochouyu_03\",\"height\":51},{\"x\":1,\"y\":1,\"width\":97,\"name\":\"xiaochouyu_02\",\"height\":96},{\"x\":100,\"y\":1,\"width\":25,\"name\":\"xiaochouyu_01\",\"height\":26}],\"imagePath\":\"xiaochouyu_tex.png\",\"width\":128,\"name\":\"xiaochouyu\",\"height\":256}",
+  "texture": "e796b67d-0beb-4a40-8f8d-0be0432d756b",
+  "subMetas": {}
+}

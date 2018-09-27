@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "画布底",
+    "texture": "39c4b7a4-ebbc-42bc-8b00-558fe91b8014",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1458,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1458,
+      1080
+    ]
+  }
+}

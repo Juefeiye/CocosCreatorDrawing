@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4ff9944e-8adc-4d9c-b24a-940f5f1fad70",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "父亲节": {
+      "ver": "1.0.3",
+      "uuid": "3638fc98-6c85-46a9-8a27-0010a133069f",
+      "rawTextureUuid": "4ff9944e-8adc-4d9c-b24a-940f5f1fad70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1720,
+      "height": 1080,
+      "rawWidth": 1720,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

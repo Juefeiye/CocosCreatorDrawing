@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lanqiqiu_02",
+    "texture": "89a4cf4f-5cd2-4190-9931-e218b817f517",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      162
+    ]
+  }
+}

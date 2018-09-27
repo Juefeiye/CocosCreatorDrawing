@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "分享按钮",
+    "texture": "e3b436ea-19ee-4cdc-8983-6bf6b39013f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      108
+    ]
+  }
+}

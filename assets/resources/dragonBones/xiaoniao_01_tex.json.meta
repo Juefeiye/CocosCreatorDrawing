@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f163d1c1-3dc8-4e1d-9fe1-53a8c72b8575",
+  "atlasJson": "{\"SubTexture\":[{\"x\":101,\"y\":45,\"width\":23,\"name\":\"xiaoniao_01_cb_02\",\"height\":28},{\"x\":65,\"y\":74,\"width\":26,\"name\":\"xiaoniao_01_weiba\",\"height\":20},{\"x\":68,\"y\":1,\"width\":43,\"name\":\"xiaoniao_01_shenti\",\"height\":42},{\"x\":68,\"y\":45,\"width\":31,\"name\":\"xiaoniao_01_zui_01\",\"height\":27},{\"x\":1,\"y\":1,\"width\":65,\"name\":\"xiaoniao_01_tou\",\"height\":60},{\"x\":29,\"y\":63,\"width\":34,\"name\":\"xiaoniao_01_toufa\",\"height\":18},{\"x\":1,\"y\":63,\"width\":26,\"name\":\"xiaoniao_01_cb_01\",\"height\":24}],\"width\":128,\"name\":\"xiaoniao_01\",\"imagePath\":\"xiaoniao_01_tex.png\",\"height\":128}",
+  "texture": "3c3ceb5c-2f13-49f2-9a60-e35620885107",
+  "subMetas": {}
+}

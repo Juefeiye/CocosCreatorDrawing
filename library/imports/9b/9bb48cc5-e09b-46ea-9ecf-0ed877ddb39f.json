@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaochouyu",
+    "texture": "6fc49220-1417-43db-95ad-1ef419f10d06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      104
+    ]
+  }
+}

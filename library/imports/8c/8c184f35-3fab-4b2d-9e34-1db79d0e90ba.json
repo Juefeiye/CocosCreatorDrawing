@@ -1,0 +1,10 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "qiting_tex",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_atlasJson": "{\"SubTexture\":[{\"x\":1,\"y\":199,\"width\":9,\"name\":\"qiting-luoxuanjiang\",\"height\":39},{\"x\":1,\"y\":1,\"width\":300,\"name\":\"qiting-shenti\",\"height\":196}],\"width\":512,\"name\":\"qiting\",\"imagePath\":\"qiting_tex.png\",\"height\":256}",
+  "texture": {
+    "__uuid__": "7d964f3f-47af-4289-8352-2fb74f59b643"
+  }
+}

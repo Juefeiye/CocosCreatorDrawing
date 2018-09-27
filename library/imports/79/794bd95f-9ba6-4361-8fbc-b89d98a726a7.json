@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "feidie",
+    "texture": "8dd0d86d-3582-4f03-a586-bdf1ba2fb794",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      100
+    ]
+  }
+}

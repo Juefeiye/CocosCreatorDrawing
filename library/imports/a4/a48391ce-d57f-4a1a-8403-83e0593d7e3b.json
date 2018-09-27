@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daxiang_tex",
+    "texture": "a5b07767-7862-4db0-80f2-256e3f44bccf",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      500,
+      395
+    ],
+    "offset": [
+      -5,
+      57.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

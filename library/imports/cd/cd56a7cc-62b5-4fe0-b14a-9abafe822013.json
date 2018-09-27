@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pangxie_tex",
+    "texture": "2811ce9a-c074-4d74-8271-0884637ff0b8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      120,
+      120
+    ],
+    "offset": [
+      -3,
+      3
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

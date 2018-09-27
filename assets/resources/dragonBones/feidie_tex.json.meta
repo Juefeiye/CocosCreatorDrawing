@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "369eda52-3bd1-41da-aae3-9b0ffb9ee26e",
+  "atlasJson": "{\"SubTexture\":[{\"x\":1,\"y\":1,\"width\":181,\"name\":\"feidie_02\",\"height\":124},{\"x\":184,\"y\":27,\"width\":67,\"name\":\"feidie_03\",\"height\":21},{\"x\":184,\"y\":1,\"width\":66,\"name\":\"feidie_01\",\"height\":24}],\"imagePath\":\"feidie_tex.png\",\"width\":256,\"name\":\"feidie\",\"height\":128}",
+  "texture": "6010c550-9efc-4a68-a29f-d1de003d7b61",
+  "subMetas": {}
+}

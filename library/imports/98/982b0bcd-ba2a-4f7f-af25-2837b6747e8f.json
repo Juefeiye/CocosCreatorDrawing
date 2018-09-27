@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daishu_tex",
+    "texture": "9ffdb99f-b08b-4a85-a689-5bea071560bc",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      238,
+      277
+    ],
+    "offset": [
+      -8,
+      116.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ]
+  }
+}

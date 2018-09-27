@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "画布背景",
+    "texture": "4f4d6289-d3fd-492f-b001-76a0b1c68457",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      110
+    ]
+  }
+}

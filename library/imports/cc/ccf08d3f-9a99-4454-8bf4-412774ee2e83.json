@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "添加桌面弹框",
+    "texture": "1753c61a-fd28-4f8c-b540-8203ab2829d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1120,
+      654
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1120,
+      654
+    ]
+  }
+}

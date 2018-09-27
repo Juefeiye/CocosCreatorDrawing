@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "草地",
+    "texture": "8eee4b84-96a6-4777-9a65-ef132113a3f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1720,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1720,
+      1080
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiting",
+    "texture": "2f5c4579-9bd8-470d-a539-a8bcb284b278",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      87
+    ]
+  }
+}

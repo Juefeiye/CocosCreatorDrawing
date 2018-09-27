@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4c16a891-0f36-4e54-8dc8-0da6af2e4ded",
+  "atlasJson": "{\"SubTexture\":[{\"x\":242,\"y\":355,\"width\":259,\"name\":\"daxiang_yinying\",\"height\":41},{\"x\":1,\"y\":193,\"width\":239,\"name\":\"daxiang_shenti\",\"height\":194},{\"x\":1,\"y\":1,\"width\":288,\"name\":\"daxiang_tou\",\"height\":190},{\"x\":242,\"y\":193,\"width\":114,\"name\":\"daxiang_bizi\",\"height\":160}],\"imagePath\":\"daxiang_tex.png\",\"width\":512,\"name\":\"daxiang\",\"height\":512}",
+  "texture": "a5b07767-7862-4db0-80f2-256e3f44bccf",
+  "subMetas": {}
+}

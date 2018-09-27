@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cao_1_02",
+    "texture": "b6e6d2ea-36aa-4f8f-9839-84a9248e1dcc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      65
+    ]
+  }
+}

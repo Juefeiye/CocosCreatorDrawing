@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "保存按钮",
+    "texture": "fe94f802-69e7-4a2c-be56-86c1262e0a8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      108
+    ]
+  }
+}

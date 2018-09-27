@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daishu",
+    "texture": "81691b4e-166f-404b-bc74-a34e66e7881c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      150
+    ]
+  }
+}

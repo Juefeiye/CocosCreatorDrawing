@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diqiu_01",
+    "texture": "69815199-dd6b-462e-b542-039f72c0e07b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      237
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      237
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "橡皮",
+    "texture": "ab7464b7-f3f9-4681-9c84-a239f120148b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      110
+    ]
+  }
+}

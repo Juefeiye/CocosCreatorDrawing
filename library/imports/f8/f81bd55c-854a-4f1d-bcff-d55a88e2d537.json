@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoyu_02",
+    "texture": "1da54b0e-3b05-42a8-b971-a796be0d3862",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      68
+    ]
+  }
+}

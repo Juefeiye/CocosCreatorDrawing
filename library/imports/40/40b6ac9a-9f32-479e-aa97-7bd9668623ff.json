@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiongmao_tex",
+    "texture": "63e249b9-897a-4dc3-b513-621ec503bc93",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      234,
+      177
+    ],
+    "offset": [
+      -10,
+      38.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

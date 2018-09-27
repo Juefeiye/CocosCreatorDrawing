@@ -1,0 +1,1262 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "image"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "particle/atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1523971143000,
+    "meta": 1523971143000,
+    "relativePath": "prefab"
+  },
+  "619865ae-1a3e-429f-a4ca-7ec615d5d346": {
+    "asset": 1531720795501,
+    "meta": 1531720793277,
+    "relativePath": "resources"
+  },
+  "b6a29458-af18-427f-a31b-319150a789e8": {
+    "asset": 1531720795553,
+    "meta": 1531720794560,
+    "relativePath": "resources/anim_clips"
+  },
+  "df27e310-a5eb-44f9-980a-d2948257ffe1": {
+    "asset": 1531720794773,
+    "meta": 1531720795306,
+    "relativePath": "resources/particles"
+  },
+  "d157888f-f3d1-45db-9b80-999b49a46df9": {
+    "asset": 1531720794079,
+    "meta": 1531720795022,
+    "relativePath": "resources/prefabs"
+  },
+  "4caaffee-6671-4916-9717-1ad3d2210db9": {
+    "asset": 1531720795311,
+    "meta": 1531720793840,
+    "relativePath": "resources/sounds"
+  },
+  "8959b649-5007-4aea-b9ed-33c60016d878": {
+    "asset": 1534216966964,
+    "meta": 1531720795025,
+    "relativePath": "resources/textures"
+  },
+  "9874e4b9-c794-4cc8-83da-f3600348462b": {
+    "asset": 1531720793287,
+    "meta": 1531720793412,
+    "relativePath": "scenes"
+  },
+  "e65ea4f3-50e0-48d7-aa72-e8b6e7fec262": {
+    "asset": 1533108859008,
+    "meta": 1531720795560,
+    "relativePath": "scripts"
+  },
+  "e1b3da9a-84a8-46ce-8a6e-98bdf16eaefe": {
+    "asset": 1534217237244,
+    "meta": 1534217237279,
+    "relativePath": "scenes/1.fire"
+  },
+  "fe94f802-69e7-4a2c-be56-86c1262e0a8c": {
+    "asset": 1531720794630,
+    "meta": 1531720844142,
+    "relativePath": "resources/textures/保存按钮.png"
+  },
+  "6231ca00-be4a-43b0-8fe6-35a21c35c861": {
+    "asset": 1531720794596,
+    "meta": 1531720844351,
+    "relativePath": "resources/textures/画笔.png"
+  },
+  "9a8afa3a-1f7c-4372-9ee7-70c68919be61": {
+    "asset": 1531720794642,
+    "meta": 1531720844179,
+    "relativePath": "resources/textures/存储分享.png"
+  },
+  "e3b436ea-19ee-4cdc-8983-6bf6b39013f0": {
+    "asset": 1531720794608,
+    "meta": 1531720844161,
+    "relativePath": "resources/textures/分享按钮.png"
+  },
+  "4f4d6289-d3fd-492f-b001-76a0b1c68457": {
+    "asset": 1531720794595,
+    "meta": 1531720844338,
+    "relativePath": "resources/textures/画布背景.png"
+  },
+  "e2c85637-860b-433b-a454-e098faf92f71": {
+    "asset": 1531720794582,
+    "meta": 1531720844215,
+    "relativePath": "resources/textures/微信.png"
+  },
+  "f38e7afb-3863-4200-999e-149aafef8fd3": {
+    "asset": 1531720794580,
+    "meta": 1531720844262,
+    "relativePath": "resources/textures/朋友圈.png"
+  },
+  "80e8049f-6138-496d-9d39-5fa659adc3a5": {
+    "asset": 1531720794622,
+    "meta": 1531720844231,
+    "relativePath": "resources/textures/收起按钮.png"
+  },
+  "90150394-07ed-478a-9ce2-4cdcdb179311": {
+    "asset": 1531720794561,
+    "meta": 1531720844201,
+    "relativePath": "resources/textures/展开按钮.png"
+  },
+  "ab7464b7-f3f9-4681-9c84-a239f120148b": {
+    "asset": 1531720794662,
+    "meta": 1531720844281,
+    "relativePath": "resources/textures/橡皮.png"
+  },
+  "a875cd44-92c9-4cbe-9138-9df6b7c42d2e": {
+    "asset": 1531720794649,
+    "meta": 1531720844396,
+    "relativePath": "resources/textures/选中.png"
+  },
+  "edcafeb4-baef-4529-b5e2-b814330508bb": {
+    "asset": 1531720794670,
+    "meta": 1531720844099,
+    "relativePath": "resources/textures/qq.png"
+  },
+  "029e10ad-b256-4264-81bb-d6df5fed1307": {
+    "asset": 1531720794667,
+    "meta": 1531720844127,
+    "relativePath": "resources/textures/qq空间.png"
+  },
+  "fe1de7b7-e71b-4577-a86f-cf118be12b60": {
+    "asset": 1531720794659,
+    "meta": 1531720844976,
+    "relativePath": "resources/textures/颜色底.png"
+  },
+  "ec51f649-df54-429b-8733-c2468600678f": {
+    "asset": 1531720794605,
+    "meta": 1531720844198,
+    "relativePath": "resources/textures/保存底.png"
+  },
+  "9e5d49a7-d14a-45c0-b488-60efbce2845b": {
+    "asset": 1531720794615,
+    "meta": 1531720844264,
+    "relativePath": "resources/textures/底1.png"
+  },
+  "39c4b7a4-ebbc-42bc-8b00-558fe91b8014": {
+    "asset": 1531720794696,
+    "meta": 1531720844385,
+    "relativePath": "resources/textures/画布底.png"
+  },
+  "e7140933-c41c-479a-98e0-c331bd6affe7": {
+    "asset": 1531720794737,
+    "meta": 1531720844021,
+    "relativePath": "resources/textures/bgImages/空白.jpg"
+  },
+  "9e13172a-753d-4ed4-adbf-2b634bbe668e": {
+    "asset": 1531720795549,
+    "meta": 1531720842621,
+    "relativePath": "resources/anim_clips/sub_push.anim"
+  },
+  "633166da-cdbf-4221-aea5-425bf40b9c6b": {
+    "asset": 1531720795547,
+    "meta": 1531720842621,
+    "relativePath": "resources/anim_clips/sub_pop.anim"
+  },
+  "df65c175-09f2-406f-965d-619ba31b6752": {
+    "asset": 1531720795532,
+    "meta": 1531720842615,
+    "relativePath": "resources/anim_clips/bg_images_push.anim"
+  },
+  "51acf874-75ea-4300-ad01-a4e52e7cbc7b": {
+    "asset": 1531720795551,
+    "meta": 1531720842614,
+    "relativePath": "resources/anim_clips/bg_images_pop.anim"
+  },
+  "70f15863-afff-4f08-99d8-0a8bf1e5c9a7": {
+    "asset": 1531720793419,
+    "meta": 1531720845029,
+    "relativePath": "scripts/BgImagesUI.js"
+  },
+  "df20a616-1c7a-45cb-9410-1a6c0d7c40b8": {
+    "asset": 1531720794763,
+    "meta": 1531720794610,
+    "relativePath": "resources/textures/bgImages"
+  },
+  "6626ebfc-dcf7-4980-b762-2b81b102a290": {
+    "asset": 1531720794713,
+    "meta": 1531720843958,
+    "relativePath": "resources/textures/bgImages/海洋.png"
+  },
+  "5aa9cec2-aada-43c0-96ad-be745d7ea5ae": {
+    "asset": 1531720793447,
+    "meta": 1531720845571,
+    "relativePath": "scripts/HttpUtils.js"
+  },
+  "44de044d-e274-4875-baa0-f66e374e9820": {
+    "asset": 1531720794565,
+    "meta": 1531720844383,
+    "relativePath": "resources/textures/边框遮罩.png"
+  },
+  "43b13024-bf07-49fb-b075-f9eaf8c25bdc": {
+    "asset": 1531720794067,
+    "meta": 1531720843810,
+    "relativePath": "resources/prefabs/colors.prefab"
+  },
+  "f038b9d7-5768-4c22-87e1-5447b100a44e": {
+    "asset": 1531720794645,
+    "meta": 1531720844242,
+    "relativePath": "resources/textures/文本遮罩.png"
+  },
+  "ca9f34ed-1cbe-45f7-8f96-de9fae82477a": {
+    "asset": 1531720794069,
+    "meta": 1531720843812,
+    "relativePath": "resources/prefabs/images.prefab"
+  },
+  "d7b96a62-cf42-4f05-b98e-8769baa7529c": {
+    "asset": 1531720795310,
+    "meta": 1531720795311,
+    "relativePath": "resources/sounds/click.mp3"
+  },
+  "dba7e27e-177a-4549-9cc9-6255bd0dcee0": {
+    "asset": 1531720794702,
+    "meta": 1531720844004,
+    "relativePath": "resources/textures/bgImages/田字格.jpg"
+  },
+  "8298116c-77c9-4cb4-a006-0b383bfa6e8a": {
+    "asset": 1531720794757,
+    "meta": 1531720843878,
+    "relativePath": "resources/textures/bgImages/字母格.jpg"
+  },
+  "75d22c88-87dd-4fd6-9de0-4dc245690282": {
+    "asset": 1531720794708,
+    "meta": 1531720844050,
+    "relativePath": "resources/textures/bgImages/米字格.jpg"
+  },
+  "8eee4b84-96a6-4777-9a65-ef132113a3f9": {
+    "asset": 1531720794761,
+    "meta": 1531720844063,
+    "relativePath": "resources/textures/bgImages/草地.jpg"
+  },
+  "6d4ddc6f-6679-4a39-88d8-feeeeb684a53": {
+    "asset": 1531720794634,
+    "meta": 1531720843853,
+    "relativePath": "resources/textures/back.png"
+  },
+  "5849e4a2-33d8-4880-a3e0-f7f84d3e8d1a": {
+    "asset": 1531720794741,
+    "meta": 1531720844101,
+    "relativePath": "resources/textures/bgImages/蓝天.jpg"
+  },
+  "4ff9944e-8adc-4d9c-b24a-940f5f1fad70": {
+    "asset": 1531720794739,
+    "meta": 1531720843972,
+    "relativePath": "resources/textures/bgImages/父亲节.jpg"
+  },
+  "460834a0-7084-4c58-abbc-c2a8f765c673": {
+    "asset": 1533030167211,
+    "meta": 1531720795308,
+    "relativePath": "resources/sounds/peiyin"
+  },
+  "9b53c2f3-5a8d-4fc5-a87d-f691f9f92049": {
+    "asset": 1531720795318,
+    "meta": 1531720795451,
+    "relativePath": "resources/sounds/peiyin/baocun.mp3"
+  },
+  "7ae5835a-b3fb-488d-9d90-fa57ddff6d40": {
+    "asset": 1531720795323,
+    "meta": 1531720795452,
+    "relativePath": "resources/sounds/peiyin/beijing.mp3"
+  },
+  "f630c979-d12c-4662-a8ef-58d75e587e34": {
+    "asset": 1533029238334,
+    "meta": 1531720795458,
+    "relativePath": "resources/sounds/peiyin/bg"
+  },
+  "f2b557fe-d18a-4ba4-a0a9-0da20adf95ba": {
+    "asset": 1531720795349,
+    "meta": 1531720795338,
+    "relativePath": "resources/sounds/peiyin/bg/baizhi.mp3"
+  },
+  "d550062f-5e4c-4ab4-9302-5d0b52840529": {
+    "asset": 1531720795359,
+    "meta": 1531720795346,
+    "relativePath": "resources/sounds/peiyin/bg/caodi.mp3"
+  },
+  "65fba441-061f-43f2-8e9a-61850b24fa93": {
+    "asset": 1531720795362,
+    "meta": 1531720795347,
+    "relativePath": "resources/sounds/peiyin/bg/haiyang.mp3"
+  },
+  "be2d2dbb-7fba-426c-9d56-911584ffa476": {
+    "asset": 1531720795334,
+    "meta": 1531720795357,
+    "relativePath": "resources/sounds/peiyin/bg/lantian.mp3"
+  },
+  "3743ac1d-b53d-4c2d-b8df-b7d2bd415817": {
+    "asset": 1531720795330,
+    "meta": 1531720795353,
+    "relativePath": "resources/sounds/peiyin/bg/mizige.mp3"
+  },
+  "b0bed3a8-4f40-4bc4-a8a6-abc76e11340c": {
+    "asset": 1531720795356,
+    "meta": 1531720795339,
+    "relativePath": "resources/sounds/peiyin/bg/tianzige.mp3"
+  },
+  "985be5b5-915f-4b92-8232-f0d2673aa61e": {
+    "asset": 1531720795344,
+    "meta": 1531720795336,
+    "relativePath": "resources/sounds/peiyin/bg/yuzhou.mp3"
+  },
+  "8af83159-43a1-460d-9009-277a09db6e1c": {
+    "asset": 1531720795341,
+    "meta": 1531720795332,
+    "relativePath": "resources/sounds/peiyin/bg/zimuge.mp3"
+  },
+  "fc9a561c-e57b-4c34-abcf-00a66277fea4": {
+    "asset": 1531720795497,
+    "meta": 1531720795314,
+    "relativePath": "resources/sounds/peiyin/color"
+  },
+  "41b51f85-0bec-41d4-b3a8-2befb26bb542": {
+    "asset": 1531720795462,
+    "meta": 1531720795487,
+    "relativePath": "resources/sounds/peiyin/color/baby blue.mp3"
+  },
+  "bb626df4-790e-4874-a431-d3832c4c4649": {
+    "asset": 1531720795495,
+    "meta": 1531720795480,
+    "relativePath": "resources/sounds/peiyin/color/black.mp3"
+  },
+  "88974f41-8b78-4286-88cb-24db61ede936": {
+    "asset": 1531720795481,
+    "meta": 1531720795468,
+    "relativePath": "resources/sounds/peiyin/color/gray.mp3"
+  },
+  "73cff873-22eb-4c01-93fe-9a122e9b8b23": {
+    "asset": 1531720795475,
+    "meta": 1531720795464,
+    "relativePath": "resources/sounds/peiyin/color/green.mp3"
+  },
+  "c13e6f1c-a43d-461d-85d1-77105571ef5e": {
+    "asset": 1531720795466,
+    "meta": 1531720795488,
+    "relativePath": "resources/sounds/peiyin/color/navy blue.mp3"
+  },
+  "b73ea262-2a3d-48c6-a213-592d4785963b": {
+    "asset": 1531720795492,
+    "meta": 1531720795478,
+    "relativePath": "resources/sounds/peiyin/color/orange.mp3"
+  },
+  "c077f1c9-e700-4ce0-a855-c54c001d1b84": {
+    "asset": 1531720795486,
+    "meta": 1531720795470,
+    "relativePath": "resources/sounds/peiyin/color/purple.mp3"
+  },
+  "4b3554c1-6747-4363-b620-8bf596b90328": {
+    "asset": 1531720795490,
+    "meta": 1531720795471,
+    "relativePath": "resources/sounds/peiyin/color/red.mp3"
+  },
+  "70498756-0225-491c-988e-1721527198a8": {
+    "asset": 1531720795497,
+    "meta": 1531720795483,
+    "relativePath": "resources/sounds/peiyin/color/white.mp3"
+  },
+  "f254562b-ccef-46b5-ac2d-b5461d8cef40": {
+    "asset": 1531720795493,
+    "meta": 1531720795473,
+    "relativePath": "resources/sounds/peiyin/color/yellow.mp3"
+  },
+  "b3419dd2-2f25-4326-9267-c5b8cb89c737": {
+    "asset": 1531720795327,
+    "meta": 1531720795456,
+    "relativePath": "resources/sounds/peiyin/huabi.mp3"
+  },
+  "bf7c8d42-b3ff-468a-8393-77b57e762c90": {
+    "asset": 1531720795325,
+    "meta": 1531720795454,
+    "relativePath": "resources/sounds/peiyin/jinru.mp3"
+  },
+  "abfb8038-9135-4ba1-a079-37dd09cba832": {
+    "asset": 1531720795460,
+    "meta": 1531720795313,
+    "relativePath": "resources/sounds/peiyin/xiangpi.mp3"
+  },
+  "48e7b9a5-9bf7-464b-bd8a-e4963a1aa33f": {
+    "asset": 1531720793487,
+    "meta": 1531720845315,
+    "relativePath": "scripts/colors.js"
+  },
+  "d66b1dc2-4460-4be1-a1b1-c5e6b5395a79": {
+    "asset": 1531720793488,
+    "meta": 1531720845607,
+    "relativePath": "scripts/ImageP.js"
+  },
+  "3df9ab99-e2f2-4def-b099-03665afc9877": {
+    "asset": 1531720794747,
+    "meta": 1531720843923,
+    "relativePath": "resources/textures/bgImages/星空.png"
+  },
+  "e6ad6fe1-684d-403e-8a6d-6fa8395df11f": {
+    "asset": 1531720794046,
+    "meta": 1531720794774,
+    "relativePath": "resources/dragonBones"
+  },
+  "d32bec9f-4d3b-4b29-b881-32ae105269ec": {
+    "asset": 1531720793975,
+    "meta": 1531720842626,
+    "relativePath": "resources/dragonBones/daishu_ske.json"
+  },
+  "3579c611-dbe3-4f83-a899-7e17779959df": {
+    "asset": 1531720793890,
+    "meta": 1531720845799,
+    "relativePath": "resources/dragonBones/daishu_tex.json"
+  },
+  "81691b4e-166f-404b-bc74-a34e66e7881c": {
+    "asset": 1531720793872,
+    "meta": 1531720842763,
+    "relativePath": "resources/dragonBones/daishu.png"
+  },
+  "def9b042-c6dd-4970-ad16-f8a476eea37f": {
+    "asset": 1531720793973,
+    "meta": 1531720842767,
+    "relativePath": "resources/dragonBones/daxiang_ske.json"
+  },
+  "9ffdb99f-b08b-4a85-a689-5bea071560bc": {
+    "asset": 1531720793842,
+    "meta": 1531720842787,
+    "relativePath": "resources/dragonBones/daishu_tex.png"
+  },
+  "4c16a891-0f36-4e54-8dc8-0da6af2e4ded": {
+    "asset": 1531720793881,
+    "meta": 1531720845802,
+    "relativePath": "resources/dragonBones/daxiang_tex.json"
+  },
+  "817de4c8-3f0c-41a6-b3e6-b8042f81b72b": {
+    "asset": 1531720793989,
+    "meta": 1531720842809,
+    "relativePath": "resources/dragonBones/daxiang.png"
+  },
+  "4a622b82-c232-4fde-8a92-7572852de9bf": {
+    "asset": 1531720793991,
+    "meta": 1531720842806,
+    "relativePath": "resources/dragonBones/feidie_ske.json"
+  },
+  "369eda52-3bd1-41da-aae3-9b0ffb9ee26e": {
+    "asset": 1531720793894,
+    "meta": 1531720845805,
+    "relativePath": "resources/dragonBones/feidie_tex.json"
+  },
+  "6010c550-9efc-4a68-a29f-d1de003d7b61": {
+    "asset": 1531720793856,
+    "meta": 1531720842820,
+    "relativePath": "resources/dragonBones/feidie_tex.png"
+  },
+  "a5b07767-7862-4db0-80f2-256e3f44bccf": {
+    "asset": 1531720793953,
+    "meta": 1531720842804,
+    "relativePath": "resources/dragonBones/daxiang_tex.png"
+  },
+  "8dd0d86d-3582-4f03-a586-bdf1ba2fb794": {
+    "asset": 1531720793893,
+    "meta": 1531720842824,
+    "relativePath": "resources/dragonBones/feidie.png"
+  },
+  "1b54f87a-838b-4cb8-92fb-bdd6b9c48c93": {
+    "asset": 1531720793862,
+    "meta": 1531720842822,
+    "relativePath": "resources/dragonBones/hetun_ske.json"
+  },
+  "7dfafbbd-2bc0-4407-adb1-928af177d7a1": {
+    "asset": 1531720794004,
+    "meta": 1531720845807,
+    "relativePath": "resources/dragonBones/hetun_tex.json"
+  },
+  "63ad475c-0fbc-4ae8-ab5c-498e9b25ba8a": {
+    "asset": 1531720793998,
+    "meta": 1531720842858,
+    "relativePath": "resources/dragonBones/huojian_ske.json"
+  },
+  "8b617b51-084b-4238-9062-8b43ec28417e": {
+    "asset": 1531720793911,
+    "meta": 1531720845906,
+    "relativePath": "resources/dragonBones/huojian_tex.json"
+  },
+  "b1d894fe-35aa-4fe1-bec0-4ac732f1adcf": {
+    "asset": 1531720793854,
+    "meta": 1531720842855,
+    "relativePath": "resources/dragonBones/hetun_tex.png"
+  },
+  "15493510-bbcb-4b91-81e3-0146d764acf8": {
+    "asset": 1531720793874,
+    "meta": 1531720842888,
+    "relativePath": "resources/dragonBones/huojian_tex.png"
+  },
+  "69bb3684-3efb-41a2-8143-c90124ef0102": {
+    "asset": 1531720793904,
+    "meta": 1531720842877,
+    "relativePath": "resources/dragonBones/huojian.png"
+  },
+  "39c7ca14-2a64-41d4-97b6-337fde87ca5c": {
+    "asset": 1531720794011,
+    "meta": 1531720842881,
+    "relativePath": "resources/dragonBones/mianyang_ske.json"
+  },
+  "ed032adc-00b8-4112-a3e7-3447b1e785d3": {
+    "asset": 1531720793916,
+    "meta": 1531720845909,
+    "relativePath": "resources/dragonBones/mianyang_tex.json"
+  },
+  "670fda7b-e0c0-4c6f-8dd6-22d07e2b22af": {
+    "asset": 1531720793997,
+    "meta": 1531720842916,
+    "relativePath": "resources/dragonBones/mianyang_tex.png"
+  },
+  "672b04d6-3682-4d95-9553-26da48840f9c": {
+    "asset": 1531720794021,
+    "meta": 1531720842908,
+    "relativePath": "resources/dragonBones/mianyang.png"
+  },
+  "316d4bde-0ca9-48b8-ad1d-ae3b5d0cae03": {
+    "asset": 1531720793936,
+    "meta": 1531720842913,
+    "relativePath": "resources/dragonBones/pangxie_ske.json"
+  },
+  "eb6d0e31-fe08-4d8a-abff-9bc5c9579598": {
+    "asset": 1531720793845,
+    "meta": 1531720845913,
+    "relativePath": "resources/dragonBones/pangxie_tex.json"
+  },
+  "b7d309e3-3475-463d-a744-0db2ff2a5387": {
+    "asset": 1531720793955,
+    "meta": 1531720842935,
+    "relativePath": "resources/dragonBones/pangxie.png"
+  },
+  "2811ce9a-c074-4d74-8271-0884637ff0b8": {
+    "asset": 1531720793927,
+    "meta": 1531720842932,
+    "relativePath": "resources/dragonBones/pangxie_tex.png"
+  },
+  "cc5c2182-9909-4243-8d8c-e8c767434c83": {
+    "asset": 1531720793884,
+    "meta": 1531720842938,
+    "relativePath": "resources/dragonBones/qiting_ske.json"
+  },
+  "8c184f35-3fab-4b2d-9e34-1db79d0e90ba": {
+    "asset": 1531720794016,
+    "meta": 1531720845915,
+    "relativePath": "resources/dragonBones/qiting_tex.json"
+  },
+  "2f5c4579-9bd8-470d-a539-a8bcb284b278": {
+    "asset": 1531720793897,
+    "meta": 1531720842957,
+    "relativePath": "resources/dragonBones/qiting.png"
+  },
+  "7d964f3f-47af-4289-8352-2fb74f59b643": {
+    "asset": 1531720793864,
+    "meta": 1531720842962,
+    "relativePath": "resources/dragonBones/qiting_tex.png"
+  },
+  "0f1e14e6-9050-4566-af16-77ea26f846dc": {
+    "asset": 1531720794038,
+    "meta": 1531720842964,
+    "relativePath": "resources/dragonBones/xiaochouyu_ske.json"
+  },
+  "a95acf97-af29-4bd1-9f79-402441bd6e18": {
+    "asset": 1531720793972,
+    "meta": 1531720845918,
+    "relativePath": "resources/dragonBones/xiaochouyu_tex.json"
+  },
+  "6fc49220-1417-43db-95ad-1ef419f10d06": {
+    "asset": 1531720793959,
+    "meta": 1531720842984,
+    "relativePath": "resources/dragonBones/xiaochouyu.png"
+  },
+  "b452cb86-c153-4029-9ae8-a70b01aff369": {
+    "asset": 1531720793961,
+    "meta": 1531720842987,
+    "relativePath": "resources/dragonBones/xiaoniao_01_ske.json"
+  },
+  "f163d1c1-3dc8-4e1d-9fe1-53a8c72b8575": {
+    "asset": 1531720793870,
+    "meta": 1531720845919,
+    "relativePath": "resources/dragonBones/xiaoniao_01_tex.json"
+  },
+  "e796b67d-0beb-4a40-8f8d-0be0432d756b": {
+    "asset": 1531720793931,
+    "meta": 1531720842992,
+    "relativePath": "resources/dragonBones/xiaochouyu_tex.png"
+  },
+  "d29642ac-3c5d-4caa-9a82-b041224b373b": {
+    "asset": 1531720793980,
+    "meta": 1531720843009,
+    "relativePath": "resources/dragonBones/xiaoniao_01.png"
+  },
+  "3c3ceb5c-2f13-49f2-9a60-e35620885107": {
+    "asset": 1531720793940,
+    "meta": 1531720843006,
+    "relativePath": "resources/dragonBones/xiaoniao_01_tex.png"
+  },
+  "d4d22921-627f-4d43-ac98-e1ceae0507f9": {
+    "asset": 1531720794042,
+    "meta": 1531720845924,
+    "relativePath": "resources/dragonBones/xiongmao_tex.json"
+  },
+  "895f31ea-1882-41b4-b8b6-cfaa7b26dddd": {
+    "asset": 1531720793914,
+    "meta": 1531720843032,
+    "relativePath": "resources/dragonBones/xiongmao_ske.json"
+  },
+  "4de74f16-c345-45cd-98f6-25cafaa2a285": {
+    "asset": 1531720794031,
+    "meta": 1531720843460,
+    "relativePath": "resources/dragonBones/xiongmao.png"
+  },
+  "63e249b9-897a-4dc3-b513-621ec503bc93": {
+    "asset": 1531720794019,
+    "meta": 1531720843459,
+    "relativePath": "resources/dragonBones/xiongmao_tex.png"
+  },
+  "ce74784a-bb7a-403f-b0a9-09de3f1e25d1": {
+    "asset": 1531720795185,
+    "meta": 1531720793838,
+    "relativePath": "resources/papers"
+  },
+  "173433c1-f615-428c-be33-ef6ec3cb7d32": {
+    "asset": 1531720795131,
+    "meta": 1531720843483,
+    "relativePath": "resources/papers/cao_1_01.png"
+  },
+  "b6e6d2ea-36aa-4f8f-9839-84a9248e1dcc": {
+    "asset": 1531720795133,
+    "meta": 1531720843485,
+    "relativePath": "resources/papers/cao_1_02.png"
+  },
+  "927ca467-d701-416c-bde7-c27ddea4bcb0": {
+    "asset": 1531720795094,
+    "meta": 1531720843513,
+    "relativePath": "resources/papers/cao_2_02.png"
+  },
+  "cd72ab9c-f0c7-48f2-9568-fb3ce6b919e5": {
+    "asset": 1531720795090,
+    "meta": 1531720843511,
+    "relativePath": "resources/papers/cao_2_01.png"
+  },
+  "63eef7e2-3d9a-419a-a0c2-f8f6d0ce1f10": {
+    "asset": 1531720795125,
+    "meta": 1531720843539,
+    "relativePath": "resources/papers/diqiu_02.png"
+  },
+  "69815199-dd6b-462e-b542-039f72c0e07b": {
+    "asset": 1531720795117,
+    "meta": 1531720843543,
+    "relativePath": "resources/papers/diqiu_01.png"
+  },
+  "03506d2f-e97d-43e8-b7ec-78ec38dce11b": {
+    "asset": 1531720795177,
+    "meta": 1531720843565,
+    "relativePath": "resources/papers/feiji_02.png"
+  },
+  "4fe7b224-4d57-4aef-86d7-ca423ce9e23a": {
+    "asset": 1531720795173,
+    "meta": 1531720843563,
+    "relativePath": "resources/papers/feiji_01.png"
+  },
+  "29c92921-c2de-4d2e-a646-70ac3603800d": {
+    "asset": 1531720795179,
+    "meta": 1531720843588,
+    "relativePath": "resources/papers/haixing_02.png"
+  },
+  "e0fc2924-96b4-4b94-b29b-f5f810199fa6": {
+    "asset": 1531720795176,
+    "meta": 1531720843583,
+    "relativePath": "resources/papers/haixing_01.png"
+  },
+  "dab524d6-bead-4c11-b4f1-7a588f8172a3": {
+    "asset": 1531720795143,
+    "meta": 1531720843608,
+    "relativePath": "resources/papers/hongqiqiu_01.png"
+  },
+  "ac573110-8860-4ee0-9368-d293374fe822": {
+    "asset": 1531720795145,
+    "meta": 1531720843605,
+    "relativePath": "resources/papers/hongqiqiu_02.png"
+  },
+  "02b8823f-febb-4cbf-8257-9769a2dcaa36": {
+    "asset": 1531720795030,
+    "meta": 1531720843624,
+    "relativePath": "resources/papers/hua_1_01.png"
+  },
+  "7880b6eb-11f8-414a-8012-73a2e0469f47": {
+    "asset": 1531720795033,
+    "meta": 1531720843629,
+    "relativePath": "resources/papers/hua_1_02.png"
+  },
+  "b0e2b6d1-80c3-4782-9bba-711cf78e16c6": {
+    "asset": 1531720795139,
+    "meta": 1531720843644,
+    "relativePath": "resources/papers/hua_2_01.png"
+  },
+  "17b42fba-ffcd-49b2-92cc-dc1cb7d30185": {
+    "asset": 1531720795141,
+    "meta": 1531720843646,
+    "relativePath": "resources/papers/hua_2_02.png"
+  },
+  "920cfa36-8de2-4a8b-b535-04783c3cb2af": {
+    "asset": 1531720795070,
+    "meta": 1531720843665,
+    "relativePath": "resources/papers/lanqiqiu_01.png"
+  },
+  "89a4cf4f-5cd2-4190-9931-e218b817f517": {
+    "asset": 1531720795073,
+    "meta": 1531720843667,
+    "relativePath": "resources/papers/lanqiqiu_02.png"
+  },
+  "58937339-2394-4139-a88a-b69ce20e9319": {
+    "asset": 1531720795104,
+    "meta": 1531720843682,
+    "relativePath": "resources/papers/shayu_02.png"
+  },
+  "7f3e94f9-7ede-4d9b-a7a8-e50a637f4dab": {
+    "asset": 1531720795100,
+    "meta": 1531720843697,
+    "relativePath": "resources/papers/shayu_01.png"
+  },
+  "ae7d0aec-d849-4ef2-8cdf-c978a83bfa75": {
+    "asset": 1531720795166,
+    "meta": 1531720843701,
+    "relativePath": "resources/papers/shu_1_01.png"
+  },
+  "3cf3e3c9-1f2f-443c-8d29-ecb45b5b888a": {
+    "asset": 1531720795168,
+    "meta": 1531720843721,
+    "relativePath": "resources/papers/shu_1_02.png"
+  },
+  "3ff34cf3-9137-4ac1-9fb7-d9abbaecacea": {
+    "asset": 1531720795129,
+    "meta": 1531720843726,
+    "relativePath": "resources/papers/shu_2_01.png"
+  },
+  "16de080e-1c9b-440e-815b-f9b25253962d": {
+    "asset": 1531720795130,
+    "meta": 1531720843747,
+    "relativePath": "resources/papers/shu_2_02.png"
+  },
+  "effcdf67-7dd6-40f2-ade7-0758475ac14c": {
+    "asset": 1531720795157,
+    "meta": 1531720843750,
+    "relativePath": "resources/papers/weixing_01.png"
+  },
+  "e1cf7cd6-9e1b-4478-a4f5-a14326ae91e4": {
+    "asset": 1531720795159,
+    "meta": 1531720843768,
+    "relativePath": "resources/papers/weixing_02.png"
+  },
+  "4bfec226-938d-411e-aafa-86ac9efbe117": {
+    "asset": 1531720795171,
+    "meta": 1531720843770,
+    "relativePath": "resources/papers/xingqiu_01.png"
+  },
+  "1c40e007-36c9-4830-b016-8df1c9bbdcb6": {
+    "asset": 1531720795172,
+    "meta": 1531720843782,
+    "relativePath": "resources/papers/xingqiu_02.png"
+  },
+  "1da54b0e-3b05-42a8-b971-a796be0d3862": {
+    "asset": 1531720795049,
+    "meta": 1531720843798,
+    "relativePath": "resources/papers/yaoyu_02.png"
+  },
+  "7311729b-87d9-43d4-ac5f-688e912ab20f": {
+    "asset": 1531720795044,
+    "meta": 1531720843788,
+    "relativePath": "resources/papers/yaoyu_01.png"
+  },
+  "268f8d81-42a1-4f83-9aa3-59ba4b58573a": {
+    "asset": 1531720795180,
+    "meta": 1531720843805,
+    "relativePath": "resources/papers/yuhangyuan_01.png"
+  },
+  "8467e66f-ff45-4c03-86c3-bab93f77bc0a": {
+    "asset": 1531720795181,
+    "meta": 1531720843814,
+    "relativePath": "resources/papers/yuhangyuan_02.png"
+  },
+  "9d327014-4b91-4dad-96d5-77d235777546": {
+    "asset": 1533030886762,
+    "meta": 1533030886776,
+    "relativePath": "resources/prefabs/papers.prefab"
+  },
+  "43480851-fe8c-4818-a583-16d1f0c381b9": {
+    "asset": 1531720793891,
+    "meta": 1531720842849,
+    "relativePath": "resources/dragonBones/hetun.png"
+  },
+  "08dce75b-489d-4d73-8890-f54f05da3e9d": {
+    "asset": 1531720793982,
+    "meta": 1531720843034,
+    "relativePath": "resources/dragonBones/xiaoniao_02.png"
+  },
+  "a0cc31b9-dee8-448c-af2a-3ed62f60b571": {
+    "asset": 1531720793930,
+    "meta": 1531720845922,
+    "relativePath": "resources/dragonBones/xiaoniao_02_tex.json"
+  },
+  "d7511333-4e24-4f65-9422-8a501c268bd6": {
+    "asset": 1531720794013,
+    "meta": 1531720843013,
+    "relativePath": "resources/dragonBones/xiaoniao_02_ske.json"
+  },
+  "936c5c04-083e-4c9c-9fad-670e28724074": {
+    "asset": 1531720793942,
+    "meta": 1531720843030,
+    "relativePath": "resources/dragonBones/xiaoniao_02_tex.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1523971143000,
+    "meta": 1530861317917,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1523971143000,
+    "meta": 1530861317919,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1523971143000,
+    "meta": 1530861317930,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1523971143000,
+    "meta": 1530861317935,
+    "relativePath": "image/default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1523971143000,
+    "meta": 1530861317944,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1523971143000,
+    "meta": 1530861317950,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1523971143000,
+    "meta": 1530861317960,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1523971143000,
+    "meta": 1530861317963,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1523971143000,
+    "meta": 1530861317974,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1523971143000,
+    "meta": 1530861317983,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1523971143000,
+    "meta": 1530861317989,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1523971143000,
+    "meta": 1530861317992,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1523971143000,
+    "meta": 1530861317996,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1523971143000,
+    "meta": 1530861318012,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1523971143000,
+    "meta": 1530861318015,
+    "relativePath": "image/default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1523971143000,
+    "meta": 1530861318032,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1523971143000,
+    "meta": 1530861318034,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1523971143000,
+    "meta": 1530861318038,
+    "relativePath": "prefab/button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1523971143000,
+    "meta": 1530861318041,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1523971143000,
+    "meta": 1530861318043,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1523971143000,
+    "meta": 1530861318046,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1523971143000,
+    "meta": 1530861318047,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1523971143000,
+    "meta": 1530861318049,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1523971143000,
+    "meta": 1530861318052,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1523971143000,
+    "meta": 1530861318054,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1523971143000,
+    "meta": 1530861318056,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1523971143000,
+    "meta": 1530861318058,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1523971143000,
+    "meta": 1530861318061,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1523971143000,
+    "meta": 1530861318063,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1523971143000,
+    "meta": 1530861318065,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1523971143000,
+    "meta": 1530861318067,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1523971143000,
+    "meta": 1530861318069,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1523971143000,
+    "meta": 1530861318071,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1523971143000,
+    "meta": 1530861318073,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1523971143000,
+    "meta": 1530861318077,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1523971143000,
+    "meta": 1530861318079,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1523971143000,
+    "meta": 1530861318205,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "3cc08862-768d-4eed-9ef5-cad11317dcbf": {
+    "asset": 1531720793440,
+    "meta": 1531720845730,
+    "relativePath": "scripts/PaperPrefab.js"
+  },
+  "6ecd9c75-f944-47cf-ada5-4d00150b1e2e": {
+    "asset": 1531720793471,
+    "meta": 1531720845585,
+    "relativePath": "scripts/ImageController.js"
+  },
+  "705a8c80-a67f-472e-a6fa-230bf6a74dba": {
+    "asset": 1531720793465,
+    "meta": 1531720845295,
+    "relativePath": "scripts/colorController.js"
+  },
+  "1753c61a-fd28-4f8c-b540-8203ab2829d7": {
+    "asset": 1531720794626,
+    "meta": 1531720844315,
+    "relativePath": "resources/textures/添加桌面弹框.png"
+  },
+  "65dca4ca-b011-4fbe-9183-c6d1584be1e8": {
+    "asset": 1531720794656,
+    "meta": 1531720844290,
+    "relativePath": "resources/textures/添加桌面弹框按钮1.png"
+  },
+  "d8a13f88-bc00-4570-a217-0f35957207f9": {
+    "asset": 1531720794664,
+    "meta": 1531720844306,
+    "relativePath": "resources/textures/添加桌面弹框按钮2.png"
+  },
+  "5196d9b6-f6ec-4031-96fa-c2f0752407d1": {
+    "asset": 1531720795540,
+    "meta": 1531720842618,
+    "relativePath": "resources/anim_clips/phoneDesk.anim"
+  },
+  "bbfeba7c-155b-468a-a832-e6ed9f787306": {
+    "asset": 1531720793452,
+    "meta": 1531720845105,
+    "relativePath": "scripts/ButtonScaler.js"
+  },
+  "0069e10d-fb51-48f9-bd71-f0399419ed3d": {
+    "asset": 1531720794654,
+    "meta": 1531720844077,
+    "relativePath": "resources/textures/loading.png"
+  },
+  "c8961c9d-704f-4eec-bb35-e8e3919aed8d": {
+    "asset": 1531720795535,
+    "meta": 1531720842619,
+    "relativePath": "resources/anim_clips/loading.anim"
+  },
+  "f4c3a962-6dd8-43c1-a4f4-2c961849afd8": {
+    "asset": 1531720794578,
+    "meta": 1531720844366,
+    "relativePath": "resources/textures/贴纸图标.png"
+  },
+  "c83a0450-1468-4fdf-a8fd-ca5927be3140": {
+    "asset": 1531720794617,
+    "meta": 1531720844328,
+    "relativePath": "resources/textures/添加桌面按钮.png"
+  },
+  "73d82d0d-4f89-4d12-a775-9f11171f4b05": {
+    "asset": 1531720793421,
+    "meta": 1531720845790,
+    "relativePath": "scripts/SubBtnsUI.js"
+  },
+  "9ceba9f4-f5bf-4a00-9d43-db3c70ddc774": {
+    "asset": 1533020374861,
+    "meta": 1533020489172,
+    "relativePath": "scripts/ShareView.js"
+  },
+  "8a164bb1-e1a7-47b8-bd04-2a650e0e5dc9": {
+    "asset": 1533020655492,
+    "meta": 1533020657424,
+    "relativePath": "scripts/Screenshot.js"
+  },
+  "32c7d2c1-fe0c-4dda-8987-4fd03fddccc4": {
+    "asset": 1533029231540,
+    "meta": 1533029231553,
+    "relativePath": "resources/sounds/peiyin/tiezhi.mp3"
+  },
+  "2aa50fec-6c38-4617-a199-16526aab33e8": {
+    "asset": 1533029238333,
+    "meta": 1533029238334,
+    "relativePath": "resources/sounds/peiyin/bg/fuqinjie.mp3"
+  },
+  "00ae5ce3-c51c-441d-b982-ee44cb02bb7f": {
+    "asset": 1533030167229,
+    "meta": 1533030167212,
+    "relativePath": "resources/sounds/peiyin/stickers"
+  },
+  "e7bc0220-6152-40ac-affe-7106ec2db3ea": {
+    "asset": 1533030167183,
+    "meta": 1533030167213,
+    "relativePath": "resources/sounds/peiyin/stickers/caocong.mp3"
+  },
+  "ce2d0742-85c9-4e4d-a615-efe28f4413e0": {
+    "asset": 1533030167185,
+    "meta": 1533030167213,
+    "relativePath": "resources/sounds/peiyin/stickers/citun.mp3"
+  },
+  "e32946d9-2fdc-4eea-9235-7224f238f02a": {
+    "asset": 1533030167182,
+    "meta": 1533030167214,
+    "relativePath": "resources/sounds/peiyin/stickers/daishu.mp3"
+  },
+  "4b4a70fe-4f7f-484f-a8e1-7534a507b39c": {
+    "asset": 1533030167182,
+    "meta": 1533030167215,
+    "relativePath": "resources/sounds/peiyin/stickers/dashu.mp3"
+  },
+  "5a3b3817-560f-418e-9f9d-a2f14a69cbdf": {
+    "asset": 1533030167182,
+    "meta": 1533030167215,
+    "relativePath": "resources/sounds/peiyin/stickers/daxiang.mp3"
+  },
+  "0c19f539-9f18-4218-a621-a551655a95e7": {
+    "asset": 1533030167183,
+    "meta": 1533030167217,
+    "relativePath": "resources/sounds/peiyin/stickers/daxiongmao.mp3"
+  },
+  "2db4c8cb-2780-4f6d-a9eb-80a5c084dc3c": {
+    "asset": 1533030167183,
+    "meta": 1533030167218,
+    "relativePath": "resources/sounds/peiyin/stickers/diqiu.mp3"
+  },
+  "008f4be9-e1ac-44ed-94cb-53d60995bbec": {
+    "asset": 1533030167183,
+    "meta": 1533030167219,
+    "relativePath": "resources/sounds/peiyin/stickers/haixing.mp3"
+  },
+  "25b8b8ab-3bc0-42fd-a0e7-13d021b46bd0": {
+    "asset": 1533030167183,
+    "meta": 1533030167220,
+    "relativePath": "resources/sounds/peiyin/stickers/hua.mp3"
+  },
+  "96c6f11d-dd9d-4f64-ab48-d340e6993cf3": {
+    "asset": 1533030167183,
+    "meta": 1533030167220,
+    "relativePath": "resources/sounds/peiyin/stickers/huojian.mp3"
+  },
+  "dff414bb-70b9-4e18-bba5-6af6b55e94d8": {
+    "asset": 1533030167183,
+    "meta": 1533030167221,
+    "relativePath": "resources/sounds/peiyin/stickers/luoxuanjiangfeiji.mp3"
+  },
+  "80f8782e-7fe8-4eec-8e1a-014baf81482e": {
+    "asset": 1533030167184,
+    "meta": 1533030167222,
+    "relativePath": "resources/sounds/peiyin/stickers/mianyang.mp3"
+  },
+  "52c6b000-8999-4c86-adef-a55ea5e7feae": {
+    "asset": 1533030167183,
+    "meta": 1533030167223,
+    "relativePath": "resources/sounds/peiyin/stickers/muxing.mp3"
+  },
+  "bcdaaf15-d54a-4e7f-87ed-d859d3746c5c": {
+    "asset": 1533030167183,
+    "meta": 1533030167223,
+    "relativePath": "resources/sounds/peiyin/stickers/pangxie.mp3"
+  },
+  "3da0419e-da67-401c-a978-53d1a092bdfc": {
+    "asset": 1533030167184,
+    "meta": 1533030167224,
+    "relativePath": "resources/sounds/peiyin/stickers/reqiqiu.mp3"
+  },
+  "91095bc9-6693-4560-9f26-dddf095f0d6f": {
+    "asset": 1533030167184,
+    "meta": 1533030167225,
+    "relativePath": "resources/sounds/peiyin/stickers/reqiting.mp3"
+  },
+  "2ba8c97a-7da2-43a3-b9b9-22f019870cdf": {
+    "asset": 1533030167184,
+    "meta": 1533030167225,
+    "relativePath": "resources/sounds/peiyin/stickers/shayu.mp3"
+  },
+  "1aea5008-c4ad-4a80-91ad-31493536fb85": {
+    "asset": 1533030167184,
+    "meta": 1533030167226,
+    "relativePath": "resources/sounds/peiyin/stickers/taikongzhan.mp3"
+  },
+  "4e8e3e64-bfeb-4b20-8921-b00f4ddb4989": {
+    "asset": 1533030167184,
+    "meta": 1533030167226,
+    "relativePath": "resources/sounds/peiyin/stickers/xiaochouyu.mp3"
+  },
+  "db962425-d6ce-471f-bc2a-2101c29e07d1": {
+    "asset": 1533030167184,
+    "meta": 1533030167227,
+    "relativePath": "resources/sounds/peiyin/stickers/xiaoniao.mp3"
+  },
+  "ea4ef9e1-d3ac-4e68-b699-8837511decef": {
+    "asset": 1533030167184,
+    "meta": 1533030167228,
+    "relativePath": "resources/sounds/peiyin/stickers/yaoyu.mp3"
+  },
+  "d4acdd09-bbfe-46fc-9825-6c89d483ff93": {
+    "asset": 1533030167184,
+    "meta": 1533030167228,
+    "relativePath": "resources/sounds/peiyin/stickers/yuhangyuan.mp3"
+  },
+  "2b44f9b6-f376-495f-849e-9b5f821d660f": {
+    "asset": 1533030167185,
+    "meta": 1533030167229,
+    "relativePath": "resources/sounds/peiyin/stickers/yuzhoufeichuan.mp3"
+  },
+  "22836e84-39e8-4696-b858-fe1a83c6c3c8": {
+    "asset": 1533030608228,
+    "meta": 1533030728138,
+    "relativePath": "scripts/Model.js"
+  },
+  "5e6c560f-6138-463c-a1c9-8f010c0593be": {
+    "asset": 1533030725195,
+    "meta": 1533030728140,
+    "relativePath": "scripts/PaperController.js"
+  },
+  "0d72b696-c376-4d08-94a2-c4e17a607007": {
+    "asset": 1533108859003,
+    "meta": 1533108859116,
+    "relativePath": "scripts/request.js"
+  },
+  "eccc3258-4877-47b7-a424-7a2d4707de67": {
+    "asset": 1533283364362,
+    "meta": 1533283381383,
+    "relativePath": "scripts/Dragonbones.js"
+  },
+  "35ae7f8c-3fa1-4964-9d4b-e46d7d03359c": {
+    "asset": 1533283365781,
+    "meta": 1533283381834,
+    "relativePath": "scripts/Global.js"
+  },
+  "2102a9de-e3c3-4fbc-b7da-bf4736a464f7": {
+    "asset": 1534216966975,
+    "meta": 1534216967114,
+    "relativePath": "resources/textures/保存分享.png"
+  },
+  "309ba4fc-fb2c-43b4-b304-301bf4ccb39e": {
+    "asset": 1534217178298,
+    "meta": 1534217183690,
+    "relativePath": "scripts/HomeUI.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongqiqiu_02",
+    "texture": "ac573110-8860-4ee0-9368-d293374fe822",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      156
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      156
+    ]
+  }
+}

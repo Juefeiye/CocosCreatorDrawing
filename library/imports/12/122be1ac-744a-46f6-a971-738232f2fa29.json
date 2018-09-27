@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "展开按钮",
+    "texture": "90150394-07ed-478a-9ce2-4cdcdb179311",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      160
+    ]
+  }
+}

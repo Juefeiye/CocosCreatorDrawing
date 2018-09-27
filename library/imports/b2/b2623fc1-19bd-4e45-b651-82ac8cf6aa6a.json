@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mianyang",
+    "texture": "672b04d6-3682-4d95-9553-26da48840f9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      105
+    ]
+  }
+}

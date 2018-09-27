@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "phoneDesk",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "alert": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 872
+            },
+            {
+              "frame": 0.25,
+              "value": 123
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 208
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

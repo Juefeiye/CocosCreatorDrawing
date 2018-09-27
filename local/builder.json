@@ -1,0 +1,19 @@
+{
+  "androidStudio": false,
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "/Users/juefei/Desktop/huabanbuild",
+  "debug": false,
+  "includeEruda": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "binary",
+  "useDebugKeystore": true,
+  "vsVersion": "auto"
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蓝天",
+    "texture": "5849e4a2-33d8-4880-a3e0-f7f84d3e8d1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1720,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1720,
+      1080
+    ]
+  }
+}

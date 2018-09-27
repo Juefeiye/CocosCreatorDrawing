@@ -1,0 +1,10 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "xiaochouyu_tex",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_atlasJson": "{\"SubTexture\":[{\"x\":1,\"y\":99,\"width\":39,\"name\":\"xiaochouyu_03\",\"height\":51},{\"x\":1,\"y\":1,\"width\":97,\"name\":\"xiaochouyu_02\",\"height\":96},{\"x\":100,\"y\":1,\"width\":25,\"name\":\"xiaochouyu_01\",\"height\":26}],\"imagePath\":\"xiaochouyu_tex.png\",\"width\":128,\"name\":\"xiaochouyu\",\"height\":256}",
+  "texture": {
+    "__uuid__": "e796b67d-0beb-4a40-8f8d-0be0432d756b"
+  }
+}

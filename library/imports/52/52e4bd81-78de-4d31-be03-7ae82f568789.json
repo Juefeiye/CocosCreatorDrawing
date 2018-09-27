@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weixing_01",
+    "texture": "effcdf67-7dd6-40f2-ade7-0758475ac14c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      140
+    ]
+  }
+}

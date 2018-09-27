@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "颜色底",
+    "texture": "fe1de7b7-e71b-4577-a86f-cf118be12b60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      1080
+    ]
+  }
+}

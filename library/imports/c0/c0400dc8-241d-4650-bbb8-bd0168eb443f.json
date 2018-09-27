@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haixing_01",
+    "texture": "e0fc2924-96b4-4b94-b29b-f5f810199fa6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      79
+    ]
+  }
+}

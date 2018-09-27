@@ -1,0 +1,10 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "daishu_tex",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_atlasJson": "{\"SubTexture\":[{\"x\":1,\"y\":245,\"width\":172,\"name\":\"daishu_yinying\",\"height\":31},{\"x\":135,\"y\":1,\"width\":77,\"name\":\"daishu_weiba\",\"height\":122},{\"x\":175,\"y\":204,\"width\":45,\"name\":\"daishu_shou_01\",\"height\":74},{\"x\":1,\"y\":1,\"width\":132,\"name\":\"daishu_shenti\",\"height\":150},{\"x\":132,\"y\":204,\"width\":27,\"name\":\"xiaodaishu\",\"height\":38},{\"x\":135,\"y\":125,\"width\":104,\"name\":\"daishu_jiao\",\"height\":77},{\"x\":89,\"y\":153,\"width\":41,\"name\":\"daishu_shou_02\",\"height\":77},{\"x\":1,\"y\":153,\"width\":86,\"name\":\"daishu_tou\",\"height\":90}],\"imagePath\":\"daishu_tex.png\",\"width\":256,\"name\":\"daishu\",\"height\":512}",
+  "texture": {
+    "__uuid__": "9ffdb99f-b08b-4a85-a689-5bea071560bc"
+  }
+}

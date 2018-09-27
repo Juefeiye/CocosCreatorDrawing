@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bd5a7cbb-c4d2-4f30-886d-591e8232e8a4",
+  "atlasJson": "{\"SubTexture\":[{\"x\":83,\"y\":1,\"width\":25,\"name\":\"xiaoniao_chibang_02\",\"height\":38},{\"x\":1,\"y\":93,\"width\":32,\"name\":\"xiaoniao_chibang_01\",\"height\":31},{\"x\":1,\"y\":1,\"width\":80,\"name\":\"xiaoniao_shenti\",\"height\":90}],\"width\":128,\"name\":\"xiaoniao\",\"imagePath\":\"xiaoniao_tex.png\",\"height\":128}",
+  "texture": "2b12a633-9be2-4897-ab58-8df5fce44c0e",
+  "subMetas": {}
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "画笔",
+    "texture": "6231ca00-be4a-43b0-8fe6-35a21c35c861",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      109
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d4d22921-627f-4d43-ac98-e1ceae0507f9",
+  "atlasJson": "{\"SubTexture\":[{\"x\":1,\"y\":147,\"width\":172,\"name\":\"xiongmao_yinying\",\"height\":31},{\"x\":1,\"y\":1,\"width\":166,\"name\":\"xiongmao_shenti\",\"height\":79},{\"x\":169,\"y\":1,\"width\":66,\"name\":\"xiongmao_shou_01\",\"height\":101},{\"x\":102,\"y\":82,\"width\":46,\"name\":\"xiongmao_shou_02\",\"height\":54},{\"x\":1,\"y\":82,\"width\":99,\"name\":\"xiongmao_tou\",\"height\":63}],\"width\":256,\"name\":\"xiongmao\",\"imagePath\":\"xiongmao_tex.png\",\"height\":256}",
+  "texture": "63e249b9-897a-4dc3-b513-621ec503bc93",
+  "subMetas": {}
+}

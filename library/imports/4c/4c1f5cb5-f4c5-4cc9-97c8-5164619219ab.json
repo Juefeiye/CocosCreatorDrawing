@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huojian_tex",
+    "texture": "15493510-bbcb-4b91-81e3-0146d764acf8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      246,
+      255
+    ],
+    "offset": [
+      -4,
+      127.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ]
+  }
+}
