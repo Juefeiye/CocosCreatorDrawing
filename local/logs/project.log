@@ -1,54 +1,54 @@
-2018-08-22T09:37:14.836Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-22T09:37:14.839Z - normal: checking language setting...
-2018-08-22T09:37:14.840Z - normal: Language: zh
-2018-08-22T09:37:15.800Z - success: protocol editor-framework registered
-2018-08-22T09:37:15.800Z - success: protocol app registered
-2018-08-22T09:37:15.800Z - success: protocol theme registered
-2018-08-22T09:37:15.801Z - success: protocol packages registered
-2018-08-22T09:37:15.801Z - success: protocol unpack registerred
-2018-08-22T09:37:15.801Z - success: protocol disable-commonjs registerred
-2018-08-22T09:37:15.928Z - normal: connected!
-2018-08-22T09:37:15.932Z - normal: Check project /Users/juefei/Desktop/huaban
-2018-08-22T09:37:15.934Z - normal: Initializing Cocos2d
-2018-08-22T09:37:16.196Z - normal: Initializing Asset Database
-2018-08-22T09:37:16.238Z - success: protocol uuid registerred
-2018-08-22T09:37:16.238Z - success: protocol db registerred
-2018-08-22T09:37:16.238Z - success: protocol thumbnail registerred
-2018-08-22T09:37:16.238Z - normal: Loading editor/builtin packages
-2018-08-22T09:37:16.266Z - success: anysdk loaded
-2018-08-22T09:37:16.418Z - success: assets loaded
-2018-08-22T09:37:16.423Z - success: builder loaded
-2018-08-22T09:37:16.426Z - success: cocos-analytics loaded
-2018-08-22T09:37:16.431Z - success: console loaded
-2018-08-22T09:37:16.467Z - success: fb-instant-games loaded
-2018-08-22T09:37:16.472Z - success: hierarchy loaded
-2018-08-22T09:37:16.477Z - success: inspector loaded
-2018-08-22T09:37:16.478Z - success: keystore loaded
-2018-08-22T09:37:16.488Z - success: node-library loaded
-2018-08-22T09:37:16.490Z - success: package-asset loaded
-2018-08-22T09:37:16.492Z - success: preferences loaded
-2018-08-22T09:37:16.496Z - success: project-exporter loaded
-2018-08-22T09:37:16.514Z - success: project-importer loaded
-2018-08-22T09:37:16.518Z - success: project-settings loaded
-2018-08-22T09:37:16.522Z - success: ui-kit loaded
-2018-08-22T09:37:16.527Z - success: ui-grid loaded
-2018-08-22T09:37:16.533Z - success: scene loaded
-2018-08-22T09:37:16.535Z - success: sprite-editor loaded
-2018-08-22T09:37:16.539Z - success: store loaded
-2018-08-22T09:37:16.546Z - success: timeline loaded
-2018-08-22T09:37:16.546Z - normal: Loading builtin packages
-2018-08-22T09:37:16.550Z - success: asset-db-debugger loaded
-2018-08-22T09:37:16.551Z - success: color-picker loaded
-2018-08-22T09:37:16.556Z - success: package-manager loaded
-2018-08-22T09:37:16.563Z - success: sdkbox loaded
-2018-08-22T09:37:16.569Z - success: tester loaded
-2018-08-22T09:37:16.573Z - success: ui-kit-preview-extra loaded
-2018-08-22T09:37:16.576Z - success: ui-kit-preview loaded
-2018-08-22T09:37:16.580Z - success: ui-tree loaded
-2018-08-22T09:37:17.838Z - normal: Initializing project /Users/juefei/Desktop/huaban
-2018-08-22T09:37:17.841Z - normal: Loading packages
-2018-08-22T09:37:17.846Z - normal: Watching packages
-2018-08-22T09:37:17.857Z - normal: Run Application
-2018-08-22T09:37:18.663Z - success: preview server running at http://localhost:7456
-2018-08-22T09:37:24.328Z - normal: 1.9.1
-2018-08-22T09:48:51.055Z - info: shutdown preview server
+2018-10-09T07:55:24.757Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-09T07:55:24.763Z - normal: checking language setting...
+2018-10-09T07:55:24.763Z - normal: Language: zh
+2018-10-09T07:55:25.680Z - success: protocol editor-framework registered
+2018-10-09T07:55:25.680Z - success: protocol app registered
+2018-10-09T07:55:25.680Z - success: protocol theme registered
+2018-10-09T07:55:25.681Z - success: protocol packages registered
+2018-10-09T07:55:25.681Z - success: protocol unpack registerred
+2018-10-09T07:55:25.681Z - success: protocol disable-commonjs registerred
+2018-10-09T07:55:25.860Z - normal: connected!
+2018-10-09T07:55:25.861Z - normal: Check project /Users/juefei/Desktop/Git/Huaban
+2018-10-09T07:55:25.863Z - normal: Initializing Cocos2d
+2018-10-09T07:55:26.106Z - normal: Initializing Asset Database
+2018-10-09T07:55:26.146Z - success: protocol uuid registerred
+2018-10-09T07:55:26.147Z - success: protocol db registerred
+2018-10-09T07:55:26.147Z - success: protocol thumbnail registerred
+2018-10-09T07:55:26.147Z - normal: Loading editor/builtin packages
+2018-10-09T07:55:26.167Z - success: anysdk loaded
+2018-10-09T07:55:26.305Z - success: assets loaded
+2018-10-09T07:55:26.309Z - success: builder loaded
+2018-10-09T07:55:26.311Z - success: cocos-analytics loaded
+2018-10-09T07:55:26.316Z - success: console loaded
+2018-10-09T07:55:26.354Z - success: fb-instant-games loaded
+2018-10-09T07:55:26.360Z - success: hierarchy loaded
+2018-10-09T07:55:26.365Z - success: inspector loaded
+2018-10-09T07:55:26.366Z - success: keystore loaded
+2018-10-09T07:55:26.375Z - success: node-library loaded
+2018-10-09T07:55:26.377Z - success: package-asset loaded
+2018-10-09T07:55:26.380Z - success: preferences loaded
+2018-10-09T07:55:26.383Z - success: project-exporter loaded
+2018-10-09T07:55:26.400Z - success: project-importer loaded
+2018-10-09T07:55:26.403Z - success: project-settings loaded
+2018-10-09T07:55:26.408Z - success: ui-kit loaded
+2018-10-09T07:55:26.413Z - success: ui-grid loaded
+2018-10-09T07:55:26.417Z - success: scene loaded
+2018-10-09T07:55:26.419Z - success: sprite-editor loaded
+2018-10-09T07:55:26.424Z - success: store loaded
+2018-10-09T07:55:26.430Z - success: timeline loaded
+2018-10-09T07:55:26.430Z - normal: Loading builtin packages
+2018-10-09T07:55:26.435Z - success: asset-db-debugger loaded
+2018-10-09T07:55:26.436Z - success: color-picker loaded
+2018-10-09T07:55:26.440Z - success: package-manager loaded
+2018-10-09T07:55:26.446Z - success: sdkbox loaded
+2018-10-09T07:55:26.453Z - success: tester loaded
+2018-10-09T07:55:26.456Z - success: ui-kit-preview-extra loaded
+2018-10-09T07:55:26.460Z - success: ui-kit-preview loaded
+2018-10-09T07:55:26.463Z - success: ui-tree loaded
+2018-10-09T07:55:27.546Z - normal: Initializing project /Users/juefei/Desktop/Git/Huaban
+2018-10-09T07:55:27.550Z - normal: Loading packages
+2018-10-09T07:55:27.554Z - normal: Watching packages
+2018-10-09T07:55:27.569Z - normal: Run Application
+2018-10-09T07:55:28.377Z - success: preview server running at http://localhost:7457
+2018-10-09T07:55:34.363Z - normal: 1.9.1
+2018-10-09T07:56:12.093Z - info: shutdown preview server

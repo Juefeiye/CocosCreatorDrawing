@@ -80,8 +80,8 @@
     "relativePath": "scripts"
   },
   "e1b3da9a-84a8-46ce-8a6e-98bdf16eaefe": {
-    "asset": 1534217237244,
-    "meta": 1534217237279,
+    "asset": 1539071771298,
+    "meta": 1539071771329,
     "relativePath": "scenes/1.fire"
   },
   "fe94f802-69e7-4a2c-be56-86c1262e0a8c": {
@@ -1255,8 +1255,8 @@
     "relativePath": "resources/textures/保存分享.png"
   },
   "309ba4fc-fb2c-43b4-b304-301bf4ccb39e": {
-    "asset": 1534217178298,
-    "meta": 1534217183690,
+    "asset": 1539071752976,
+    "meta": 1539071760248,
     "relativePath": "scripts/HomeUI.js"
   }
 }

@@ -35,9 +35,9 @@ cc.Class({
     // use this for initialization
     onLoad: function () {
         
-        if (channel) {
-            Tool.onEvent(channel);
-        }
+        // if (channel) {
+        //     Tool.onEvent(channel);
+        // }
 
         Tool.onEvent('Start');
         Tool.play(this.beginAudio);
