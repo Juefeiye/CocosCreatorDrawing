@@ -2,6 +2,8 @@
 
 CocosCreator完成的一个画板
 
+本文地址：https://www.jianshu.com/p/97bf36c9ec40
+
 包含: 
 
 1.绘画功能
