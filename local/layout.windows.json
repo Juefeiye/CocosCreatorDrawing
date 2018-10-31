@@ -20,7 +20,7 @@
                 ],
                 "height": 512,
                 "type": "panel",
-                "width": 422.390625
+                "width": 422
               },
               {
                 "active": 0,
@@ -29,12 +29,12 @@
                 ],
                 "height": 451,
                 "type": "panel",
-                "width": 422.390625
+                "width": 422
               }
             ],
             "height": 966,
             "type": "dock-v",
-            "width": 422.390625
+            "width": 422
           },
           {
             "children": [
@@ -47,7 +47,7 @@
                     ],
                     "height": 512,
                     "type": "panel",
-                    "width": 523.03125
+                    "width": 523
                   },
                   {
                     "active": 0,
@@ -56,12 +56,12 @@
                     ],
                     "height": 512,
                     "type": "panel",
-                    "width": 308.890625
+                    "width": 309
                   }
                 ],
                 "height": 512,
                 "type": "dock-h",
-                "width": 834.921875
+                "width": 835
               },
               {
                 "active": 0,
@@ -71,12 +71,12 @@
                 ],
                 "height": 451,
                 "type": "panel",
-                "width": 834.921875
+                "width": 835
               }
             ],
             "height": 966,
             "type": "dock-v",
-            "width": 834.921875
+            "width": 835
           },
           {
             "active": 0,
@@ -85,7 +85,7 @@
             ],
             "height": 966,
             "type": "panel",
-            "width": 625.6875
+            "width": 626
           }
         ],
         "type": "dock-h"
@@ -115,8 +115,8 @@
       "height": 738
     },
     "preferences": {
-      "x": 1563,
-      "y": 391,
+      "x": 300,
+      "y": 226,
       "width": 941,
       "height": 548
     },
